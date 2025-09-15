@@ -44,16 +44,16 @@ Configuration file containing the time-based routing rules:
 ### Step 1: Start the DNS Server
 Open a terminal window and run:
 ```
-python server.py
+py server.py
 ```
 The server will start listening on port 5300 and display a confirmation message. Press `Ctrl+C` to interrupt and terminate the process once completed.
 
 ### Step 2: Run the DNS Client
 Open another terminal window and run:
 ```
-python client.py 9.pcap
+py client.py 9.pcap
 ```
-Replace `9.pcap` with your designated PCAP filename if different (ensure that the PCAP file is in the same directory as the scripts).
+Replace `9.pcap` with your designated PCAP filename if different (ensure that the PCAP file is in the same directory as the scripts). If your PCAP file is in a different location, provide the relative or absolute path to the file.
 
 ### Expected Output
 The client will:
