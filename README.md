@@ -11,7 +11,6 @@ CS-331_Computer_Networks_Assign-1/
 ├── client.py              # DNS client implementation
 ├── server.py              # DNS server implementation
 ├── rules.json             # Time-based routing rules configuration
-├── 9.pcap                 # Network capture file for processing
 ├── README.md              # This file
 ├── Report.pdf             # Report explaining our approach and results
 ```
