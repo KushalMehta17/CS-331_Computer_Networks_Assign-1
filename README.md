@@ -7,7 +7,7 @@ This project is a solution for Computer Networks Assignment 1, consisting of two
 
 ## Project Structure
 ```
-Q1-DNS Resolver/
+CS-331_Computer_Networks_Assign-1/
 ├── client.py              # DNS client implementation
 ├── server.py              # DNS server implementation
 ├── rules.json             # Time-based routing rules configuration
